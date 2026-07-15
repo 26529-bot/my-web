@@ -91,3 +91,8 @@ nav a:hover{
 .card:hover{
     transform:translateY(-5px);
 }
+
+.card h3{
+    color:#d90429;
+    margin-bottom:10px;
+}
