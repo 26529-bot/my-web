@@ -96,3 +96,7 @@ nav a:hover{
     color:#d90429;
     margin-bottom:10px;
 }
+
+.card p{
+    line-height:1.6;
+}
