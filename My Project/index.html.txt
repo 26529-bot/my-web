@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">UniPortal</div>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Courses</a></li>
+            <li><a href="#">Results</a></li>
+            <li><a href="#">Library</a></li>
+            <li><a href="#">Profile</a></li>
+        </ul>
+    </nav>
+
+    <button>Login</button>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h1>Welcome to the University Portal</h1>
+        <p>Manage courses, check grades, access library resources, and stay updated with campus announcements.</p>
+        <a href="#" class="btn">Get Started</a>
+    </div>
+</section>
+
+<section class="dashboard">
+
+    <div class="card">
+        <h2>📚 My Courses</h2>
+        <p>View enrolled courses and study materials.</p>
+    </div>
+
+    <div class="card">
+        <h2>📝 Results</h2>
+        <p>Check semester grades and GPA.</p>
+    </div>
+
+    <div class="card">
+        <h2>📅 Timetable</h2>
+        <p>View your weekly class schedule.</p>
+    </div>
+
+    <div class="card">
+        <h2>💳 Fee Payment</h2>
+        <p>Pay tuition and download receipts.</p>
+    </div>
+
+</section>
+
+<section class="announcements">
+
+    <h2>Latest Announcements</h2>
+
+    <div class="notice">
+        Mid Semester exams begin on October 10.
+    </div>
+
+    <div class="notice">
+        Scholarship applications are now open.
+    </div>
+
+    <div class="notice">
+        Library will remain open until 10 PM during exams.
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 University Portal | Designed by Student</p>
+</footer>
+
+</body>
+</html>

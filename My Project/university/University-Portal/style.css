@@ -1,0 +1,8 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Arial,sans-serif}
+body{background:#f2f5f9;color:#333}
+header{display:flex;justify-content:space-between;align-items:center;padding:20px 8%;background:#0a3d62;color:#fff}
+nav ul{display:flex;list-style:none;gap:16px}nav a{color:#fff;text-decoration:none}
+.hero{padding:80px 8%;text-align:center;background:#0a3d62;color:#fff}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;padding:40px 8%}
+.card{background:#fff;padding:20px;border-radius:10px;box-shadow:0 4px 10px rgba(0,0,0,.1)}
+footer{text-align:center;padding:20px;background:#0a3d62;color:#fff}

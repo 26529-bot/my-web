@@ -1,0 +1,1 @@
+function setLang(l){document.querySelectorAll('[data-en]').forEach(e=>e.textContent=e.dataset[l]);localStorage.lang=l}window.onload=()=>setLang(localStorage.lang||'en');
